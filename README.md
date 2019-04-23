@@ -34,6 +34,8 @@ Results:
 | 15           | 2            | $9.46               | $18.92            |
 | 16           | 2            | $7.22               | $14.43            |
 
+Additional calculations performed in Excel:
+
 | Bucket   | Retention |
 |----------|-----------|
 | 1 to 2   | 64.58%    |
