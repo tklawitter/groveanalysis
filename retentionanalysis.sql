@@ -3,4 +3,4 @@ SELECT order_number, 
        Avg(Substr(order_value, 2)) AS AVG_VALUE, 
        Sum(Substr(order_value, 2)) AS TOTAL_VALUE 
 FROM   orders 
-GROUP  BY order_number; 
+GROUP BY order_number; 
